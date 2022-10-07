@@ -1,3 +1,11 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 <?php
-    echo("Hello world!");
+    echo("<p>Hello world!</p>");
 ?>
+</body>
+</html>
